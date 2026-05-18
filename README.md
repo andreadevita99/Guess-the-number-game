@@ -18,7 +18,8 @@ When you guess correctly, the program will display a congratulatory message show
 
 ## Requirements
 
-- Python 3.6 or higher (no external libraries are required).
+- Python 3.6 or higher (no external libraries are required);
+- Works on Linux, macOS, Windows.
 
 ## How to Run
 
